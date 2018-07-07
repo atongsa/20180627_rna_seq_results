@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1529646957117
+param	collapse	false
+param	cls	/home/atongsa/Documents/projects/20180613_rseq_redon/results/gsea/15_RNA_seq_samples.cls#MA9-Sirt2_versus_MA9-WT
+param	plot_top_x	20
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	/home/atongsa/Documents/projects/20180613_rseq_redon/results/gsea/c5.bp.v6.1.symbols.gmt
+param	gui	false
+param	metric	Signal2Noise
+param	rpt_label	ma9_sirt2_vs_ma9_wt
+param	help	false
+param	order	descending
+param	out	/home/atongsa/Documents/apps/bioinformatics/gsea/outputs/jun22
+param	create_svgs	false
+param	permute	gene_set
+param	rnd_type	no_balance
+param	set_min	15
+param	include_only_symbols	true
+param	sort	real
+param	create_gcts	false
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	500
+param	res	/home/atongsa/Documents/projects/20180613_rseq_redon/results/gsea/15_rna_seq.gct
+
+file	/home/atongsa/Documents/apps/bioinformatics/gsea/outputs/jun22/ma9_sirt2_vs_ma9_wt.Gsea.1529646957117/index.html
